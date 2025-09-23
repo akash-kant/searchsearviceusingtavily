@@ -1,0 +1,7 @@
+tavily-python
+requests
+pytest
+pytest-asyncio
+beautifulsoup4
+spacy
+python-dotenv
