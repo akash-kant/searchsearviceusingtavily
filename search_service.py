@@ -19,6 +19,9 @@ from bs4 import BeautifulSoup
 from fastapi import FastAPI, Query
 from pydantic import BaseModel
 import spacy
+from dotenv import load_dotenv
+
+load_dotenv() 
 
 # Defensive import
 try:
